@@ -1,0 +1,5 @@
+this is a new file i have added using
+echo "anjali.txt"
+and in linux it is created using
+touch anjali.txt
+
